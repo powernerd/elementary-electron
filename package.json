@@ -8,8 +8,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cat-picture": "^5.1.2"
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powernerd/elementary-electron.git"
+  },
+  "bugs": {
+    "url": "https://github.com/powernerd/elementary-electron/issues"
+  },
+  "homepage": "https://github.com/powernerd/elementary-electron#readme"
 }
